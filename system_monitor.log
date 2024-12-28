@@ -1,0 +1,13 @@
+[32mSystem Monitoring Report - Wed Dec 25 16:25:12 EST 2024[0m
+Filesystem and Disk Usage:
+Filesystem           Use%
+C:/Program Files/Git  75%
+E:                    71%
+[31mChecking filesystems for usage greater than 20%:[0m
+E:                    71%
+
+CPU usage:
+
+Memory usage:
+
+Top 5 Memory-Consuming Processes:
